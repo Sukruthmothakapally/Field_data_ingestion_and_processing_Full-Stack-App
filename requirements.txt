@@ -1,0 +1,7 @@
+streamlit 
+fastapi 
+uvicorn 
+pandas 
+requests 
+pytest
+python-multipart
